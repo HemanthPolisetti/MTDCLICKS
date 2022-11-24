@@ -19,7 +19,7 @@
 
 .para{
     color:rgb(7, 7, 19);
-    font-family:'Dancing Script', cursive;
+    font-family:'sans-serif', cursive;
     font-weight:bold;
 }
 .button{
@@ -46,7 +46,7 @@
     
     .para{
         color:rgb(7, 7, 19);
-        font-family:'Dancing Script', cursive;
+        font-family:'sans-serif', cursive;
         font-weight:bold;
     }
     .button{
