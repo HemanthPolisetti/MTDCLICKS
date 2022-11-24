@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MTDCLICKS/static/css/main.249a8e81.css",
-    "main.js": "/MTDCLICKS/static/js/main.913be9cd.js",
+    "main.js": "/MTDCLICKS/static/js/main.0fbbf7b3.js",
     "static/media/img15.jpg": "/MTDCLICKS/static/media/img15.e31ba08dbcb22fef02eb.jpg",
     "static/media/img8.jpg": "/MTDCLICKS/static/media/img8.2dea0285c99f5bb3db80.jpg",
     "static/media/img19.jpg": "/MTDCLICKS/static/media/img19.46c809e1158a8093ab10.jpg",
@@ -14,10 +14,10 @@
     "static/media/logo.jpg": "/MTDCLICKS/static/media/logo.628c392260f8a47ddc59.jpg",
     "index.html": "/MTDCLICKS/index.html",
     "main.249a8e81.css.map": "/MTDCLICKS/static/css/main.249a8e81.css.map",
-    "main.913be9cd.js.map": "/MTDCLICKS/static/js/main.913be9cd.js.map"
+    "main.0fbbf7b3.js.map": "/MTDCLICKS/static/js/main.0fbbf7b3.js.map"
   },
   "entrypoints": [
     "static/css/main.249a8e81.css",
-    "static/js/main.913be9cd.js"
+    "static/js/main.0fbbf7b3.js"
   ]
 }
