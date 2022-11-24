@@ -99,7 +99,7 @@ export default function Album({cards}) {
           color="text.secondary"
           component="p"
         >
-          This is developed P.Hemanth Kumar
+          This is developed by P.Hemanth Kumar
         </Typography>
         <Copyright />
       </Box>

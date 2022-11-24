@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Marker+Hatch&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+
 .body{
     background-image:linear-gradient(to bottom, #eedf10de,#838521);
 }
@@ -14,12 +16,13 @@
 }
 .heading{
     color:#181816;
-    font-size:larger;
+    font-size:55px;
+    font-family:'Yanone Kaffeesatz', cursive;
 }
 
 .para{
     color:rgb(7, 7, 19);
-    font-family:'sans-serif', cursive;
+    font-family:'Sono', cursive;
     font-weight:bold;
 }
 .button{
@@ -41,13 +44,13 @@
     }
     .heading{
         color:#181816;
-        font-size:35px;
+        font-family:'Yanone Kaffeesatz', cursive;
+        font-size:40px;
     }
     
     .para{
         color:rgb(7, 7, 19);
-        font-family:'sans-serif', cursive;
-        font-weight:bold;
+        font-family:'Sono', cursive;
     }
     .button{
         color:#181816;
