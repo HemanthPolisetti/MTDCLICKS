@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Marker+Hatch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+.body{
+    background-image:linear-gradient(to bottom, #eedf10de,#838521);
+}
+.header{
+    color:#181816;
+    font-family:'Rubik Marker Hatch', cursive;
+}
+.logo{
+    width:63px;
+    margin-left:-30px;
+    margin-right:12px;
+}
+.heading{
+    color:#181816;
+    font-size:larger;
+}
+
+.para{
+    color:rgb(7, 7, 19);
+    font-family:'Dancing Script', cursive;
+    font-weight:bold;
+}
+.button{
+    color:#181816;
+    outline:none;
+}
+@media only screen and (max-width:768px){
+    .body{
+        background-image:linear-gradient(to bottom, #eedf10de,#838521);
+    }
+    .header{
+        color:#181816;
+        font-family:'Rubik Marker Hatch', cursive;
+    }
+    .logo{
+        width:63px;
+        margin-left:-30px;
+        margin-right:12px;
+    }
+    .heading{
+        color:#181816;
+        font-size:35px;
+    }
+    
+    .para{
+        color:rgb(7, 7, 19);
+        font-family:'Dancing Script', cursive;
+        font-weight:bold;
+    }
+    .button{
+        color:#181816;
+        outline:none;
+    }
+}
